@@ -508,15 +508,6 @@ yarn dev
 # Acessar
 http://localhost:3000
 ```
-
----
-
-## 🔑 Credenciais Padrão
-
-**Admin:**
-- Username: `admin`
-- Senha: `admin123`
-
 ---
 
 ## 📝 TODO / Melhorias Futuras

@@ -66,11 +66,6 @@ Consulte o arquivo `DOCUMENTACAO_COMPLETA.md` dentro da pasta `project/` para:
 - Melhorias sugeridas
 - Guia de desenvolvimento
 
-## 🔑 Credenciais Padrão
-
-- **Username:** admin
-- **Senha:** admin123
-
 ## 🌐 Deploy
 
 O projeto está configurado para:
